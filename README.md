@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhamedtest&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhamedtest" /> </p>
 
 - 🌱 I’m currently learning **Embedded Testing **
-- 
 - 📄 Know about my experiences [https://docs.google.com/document/d/10nmo7376AA3LjkHyfOGWE-bbtHDbTm44/edit](https://docs.google.com/document/d/10nmo7376AA3LjkHyfOGWE-bbtHDbTm44/edit)
-
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedhamedtest](https://github.com/mohamedhamedtest)
-
 - 📫 How to reach me **mohamedhamed77770@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhamedtest" alt="mohamedhamedtest" /></a> 
