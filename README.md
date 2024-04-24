@@ -3,7 +3,7 @@
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhamedtest&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhamedtest" /> </p>
 
-- 🌱 I’m currently learning **Embedded Linux**
+- 🌱 I’m currently learning **Embedded Testing **
 - 
 - 📄 Know about my experiences [https://docs.google.com/document/d/10nmo7376AA3LjkHyfOGWE-bbtHDbTm44/edit](https://docs.google.com/document/d/10nmo7376AA3LjkHyfOGWE-bbtHDbTm44/edit)
 
