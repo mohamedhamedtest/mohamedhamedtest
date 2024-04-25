@@ -45,7 +45,7 @@
 <p align="left">
   <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedhamedtest&show_icons=true&locale=en" alt="mohamedhamedtest" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohamedhamedtest&show_icons=true&locale=en" alt="mohamedhamedtest" /></p>
 
 </p></div>
 <br>
