@@ -45,7 +45,7 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamedtest&" alt="mohamedhamedtest" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamedtest&" alt="mohamedhamedtest" /></p>
 
 
 
