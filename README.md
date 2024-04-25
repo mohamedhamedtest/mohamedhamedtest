@@ -41,7 +41,7 @@
 
 <div>
 <p align="right">
-  <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="200px" width="300px">
+  <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="400px" width="300px">
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedhamedtest&show_icons=true&locale=en" alt="mohamedhamedtest" width="450px"> 
 </p>
