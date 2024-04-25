@@ -1,4 +1,13 @@
-z<h1 align="center"> Hi 👋, I'm Mohamed Hamed </h1>
+
+<div>
+  <div align="right">
+    <img src="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0="right" height="300px" width="210px">
+  </div>
+
+
+
+
+<h1 align="center"> Hi 👋, I'm Mohamed Hamed </h1>
 <h3 align="center"> Embedded Software Engineer and C Developer with Proficiency in Automotive, Testing. Can write scripts and GUIs using Python.</h3>
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhamedtest&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhamedtest" /> </p>
@@ -29,17 +38,14 @@ z<h1 align="center"> Hi 👋, I'm Mohamed Hamed </h1>
 
 
 
-<div>
-  <div align="right">
-    <img src="https://man.giphy.com/man/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
-  </div>
----
+
 
 
 <div>
 <p align="left">
   <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats" width="450px"> 
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedhamedtest&show_icons=true&locale=en" alt="mohamedhamedtest" /></p>
 
 </p></div>
 <br>
