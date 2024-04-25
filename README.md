@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" align="center" height="300px" width="500px">
   </div>
 
-<h1 align="center"> Hi 👋, I'm Mohamed Hamed </h1>
+<h1 align="left"> Hi 👋, I'm Mohamed Hamed </h1>
 <h3 align="center"> Embedded Software Engineer and C Developer with Proficiency in Automotive, Testing. Can write scripts and GUIs using Python.</h3>
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhamedtest&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhamedtest" /> </p>
