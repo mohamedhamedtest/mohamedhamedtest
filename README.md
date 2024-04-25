@@ -1,22 +1,7 @@
 <div>
   <div align="center">
-    <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
+    <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="center" height="300px" width="210px">
   </div>
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <h1 align="center"> Hi 👋, I'm Mohamed Hamed </h1>
 <h3 align="center"> Embedded Software Engineer and C Developer with Proficiency in Automotive, Testing. Can write scripts and GUIs using Python.</h3>
