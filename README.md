@@ -31,7 +31,7 @@ z<h1 align="center"> Hi 👋, I'm Mohamed Hamed </h1>
 
 <div>
   <div align="right">
-    <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
+    <img src="https://man.giphy.com/man/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
   </div>
 ---
 
