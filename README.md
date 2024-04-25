@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedhamedtest&show_icons=true&locale=en" alt="mohamedhamedtest" width="450px"> 
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamedtest&" alt="mohamedhamedtest" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamedtest&" alt="mohamedhamedtest" /></p>
 
 
 
