@@ -34,12 +34,7 @@ z<h1 align="center"> Hi 👋, I'm Mohamed Hamed </h1>
     <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
   </div>
 ---
-<div align ="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SrishtiSinghD&row=1&no-frame=true" > 
- 
-</div>
----
 
 <div>
 <p align="left">
