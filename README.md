@@ -36,25 +36,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div>
 <p align="right">
   <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="250px" width="300px">
@@ -62,8 +43,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedhamedtest&show_icons=true&locale=en" alt="mohamedhamedtest" width="450px"> 
 </p>
   
-
 <br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamedtest&" alt="mohamedhamedtest" /></p>
 
 
 
