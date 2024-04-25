@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="center" height="300px" width="210px">
+    <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" align="center" height="300px" width="210px">
   </div>
 
 <h1 align="center"> Hi 👋, I'm Mohamed Hamed </h1>
