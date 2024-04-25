@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" align="center" height="500px" width="1000px">
+    <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" align="center" height="300px" width="500px">
   </div>
 
 <h1 align="center"> Hi 👋, I'm Mohamed Hamed </h1>
@@ -34,6 +34,8 @@
  <p> <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="250px" width="300px"><p>
    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamedhamedtest&show_icons=true&locale=en" alt="mohamedhamedtest" width="450px"></p>
+
+
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamedtest&" alt="mohamedhamedtest" /></p>
 
