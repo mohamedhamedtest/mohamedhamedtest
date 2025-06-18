@@ -4,13 +4,15 @@
   </div>
 
 <h1 align="left"> Hi 👋, I'm Mohamed Hamed </h1>
-<h3 align="center"> Embedded Software Engineer and C Developer with Proficiency in Automotive, Testing. Can write scripts and GUIs using Python.</h3>
+<h3 align="center"> Problem solver in Embedded Systems & Software Testing — delivering efficient, reliable solutions that bridge hardware and software. Skilled in C/C++, Manual Testing, automated testing with Selenium and Postman, and thorough API validation. Passionate about innovation and continuous growth in fast-paced tech environments.
+</h3>
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhamedtest&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhamedtest" /> </p>
 
 - 🌱 I’m currently learning "Embedded Testing "
   
-- 📄 Know about my experiences [https://docs.google.com/document/d/10nmo7376AA3LjkHyfOGWE-bbtHDbTm44/edit](https://docs.google.com/document/d/10nmo7376AA3LjkHyfOGWE-bbtHDbTm44/edit)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/10nmo7376AA3LjkHyfOGWE-bbtHDbTm44/edit]([https://drive.google.com/file/d/1GnG_ueH83YEoX6QqKWptbiIoTcWT7STj/view?usp=sharing]
+                                [[[https://docs.google.com/document/d/10nmo7376AA3LjkHyfOGWE-bbtHDbTm44/edit]([https://drive.google.com/file/d/1e5AdooECynNsgQ2IOGrpyp6tBNhVftqg/view?usp=sharing]
  
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedhamedtest](https://github.com/mohamedhamedtest)
 
